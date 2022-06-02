@@ -12,3 +12,4 @@ Welcome to our learning repository. Here we have materials on different things f
 - Go Programming
   - [hello-go](https://github.com/cng-by-example/hello-go)
   - [fandogh](https://github.com/cng-by-example/fandogh)
+  - [song_cloud](https://github.com/cng-by-example/song_cloud)
