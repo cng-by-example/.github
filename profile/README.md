@@ -8,4 +8,6 @@ Welcome to our learning repository. Here we have materials on different things f
   - [scoket.py](https://github.com/cng-by-example/socket.py)
   - [dallal](https://github.com/cng-by-example/dallal)
 - C Programming
+  - [c-lecture](https://github.com/cng-by-example/c-lecture)
 - Go Programming
+  - [fandogh](https://github.com/cng-by-example/fandogh)
