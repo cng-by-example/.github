@@ -10,4 +10,5 @@ Welcome to our learning repository. Here we have materials on different things f
 - C Programming
   - [c-lecture](https://github.com/cng-by-example/c-lecture)
 - Go Programming
+  - [hello-go](https://github.com/cng-by-example/hello-go)
   - [fandogh](https://github.com/cng-by-example/fandogh)
