@@ -9,6 +9,7 @@ Welcome to our learning repository. Here we have materials on different things f
   - [dallal](https://github.com/cng-by-example/dallal)
 - C Programming
   - [c-lecture](https://github.com/cng-by-example/c-lecture)
+  - [TanhaDarKhaneh](https://github.com/cng-by-example/TanhaDarKhaneh)
 - Go Programming
   - [hello-go](https://github.com/cng-by-example/hello-go)
   - [fandogh](https://github.com/cng-by-example/fandogh)
