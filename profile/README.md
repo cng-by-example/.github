@@ -17,6 +17,6 @@ them in your learning journey.
   - [hello-go](https://github.com/cng-by-example/hello-go)
   - [fandogh](https://github.com/cng-by-example/fandogh)
   - [song_cloud](https://github.com/cng-by-example/song_cloud)
-  - students [fall-2020](https://github.com/cng-by-example/students-fall-2020), [string-2022](https://github.com/cng-by-example/students-spring-2022), [fall 2021](https://github.com/cng-by-example/students-fall-2021)
+  - students [fall-2020](https://github.com/cng-by-example/students-fall-2020), [spring-2022](https://github.com/cng-by-example/students-spring-2022), [fall 2021](https://github.com/cng-by-example/students-fall-2021)
 - Ad-Hoc
   - [effective-documentation](https://github.com/cng-by-example/effective-documentation)
